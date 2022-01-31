@@ -5,6 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { render } from "react-dom";
 import { BrowserRouter,Routes,Route } from "react-router-dom";
+import ProductList from './components/productList/ProductList';
 
 
 // ReactDOM.render(
@@ -20,7 +21,7 @@ render(
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<App />} />
-      {/* <Route path="expenses" element={<Expenses />} /> */}
+      <Route path="/products" element={<ProductList />} />
       {/* <Route path="invoices" element={<Invoices />} /> */}
     </Routes>
     

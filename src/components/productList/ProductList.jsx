@@ -1,11 +1,19 @@
 import React from 'react';
+import { useState, useEffect } from "react";
+import JsonData from "../../data/data.json";
 import { products } from '../../data';
 import Product from '../productCard/Product';
 import { Row,Col,Container } from 'react-bootstrap';
+import { Navigation } from "../navigation";
+import { Header } from "../header";
 export default function ProductList(props) {
+    const [landingPageData, setLandingPageData] = useState({});
+  useEffect(() => {
+    setLandingPageData(JsonData);
+  }, []);
   return (
   <div>
-      <h1>Products</h1>
+       <Navigation />
       <Container >
 
              <Row >

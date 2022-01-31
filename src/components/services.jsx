@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Decoration is really about creating a quality of life that nourishes the soul and makes life beautiful. And so here we offer a great many diverse products to suit  our customer’s needs.We manufacture 3D metal animal and bird sculpture, flower sculpture, metal fountains, topiary frame, wind spinners, plant holders, unique lighted poles for cross roads, iconic mirrored sculpture, arbors & pergolas etc.The list of products is endless as creativity is boundless and all the products are the result of creative zeal of our team
           </p>
         </div>
         <div className='row'>
