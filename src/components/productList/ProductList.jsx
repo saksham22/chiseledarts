@@ -13,16 +13,19 @@ export default function ProductList(props) {
   }, []);
   return (
   <div>
-       <Navigation />
+      {/* <Navigation /> */}
       <Container >
 
              <Row >
 
                     {products.map((product,index) =>(
+
                         <Col key = {index} sm={12} md={6} lg={4} xl={3}>
                             {/* {((product.category===props.category) && <Product key = {index} product={product}/>)} */}
                         
+                            
                             <Product key = {index} product={product}/>
+                              
                         </Col>
                     ))}
                     

@@ -6,7 +6,7 @@ import {Card,Button} from 'react-bootstrap'
 export default function Product(props) { 
     return (
         <div className='card'> 
-            <Card >
+            <Card className="my-3 p-3 rounded">
   <Card.Img variant="top" src={props.product.imageURL} />
   <Card.Body>
     <Card.Title>{props.product.Name}</Card.Title>

@@ -1,21 +1,22 @@
 {
   "Header": {
     "title": "Chiseled Arts",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "Offer complete solution to outdoor and indoor decor. The company converges on the simple analogy that the happiness of our clients equates our success as well and this shall be our guiding principle in every transaction. "
   },
   "About": {
     "paragraph": "Chiseled Arts located in Lucknow has been evolved recently to meliorate interior as well as exterior decor. With its astounding products list and range the company is in capacity to render beautification with simplicity to multiple clients at one time. We aim to recreate, redefine and reinvent the surroundings whether a cross road , government buildings, institutions, schools ,market places or garden areas.  The company believes in a holistic approach while crafting and customizing products to suit various needs. We have an idiosyncratic ability to make our clients think out of the box when it comes to ornate outdoors. We specialize in theme fountains,waterfalls, metal sculpting ,arbors,pergolas etc. We aspire to establish as the premier purveyor of the outdoor décor ,enriching lives of people. As a matter of fact, the company expresses a desire to cater to people from all walks of life. Admittedly, our innovative team is working tirelessly to satiate the top notch demands of the customers and each product undergoes multiple processes of exactitude to deliver best of our endeavors",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "We create sculptures and fountains that never fail to impress",
+      "Affordable",
+      "Acculturation",
+      "Ambient"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Revitalize",
+      "Embellishment",
+      "Ornate",
+      "Illuminate",
+      "Trendsetting"
     ]
   },
   "Gallery": [
@@ -163,22 +164,22 @@
     {
       "icon": "fa fa-comments-o",
       "title": "Connoisseur",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": " \"Unless you are a born connoisseur of art, you will not be able to judge by yourself why certain art is superior to other art\" - David Elliott\nIn this category, products are manufactured involving creativity and designer skills along with most exacting standard raw materials to bring out unique identity. "
     },
     {
       "icon": "fa fa-bullhorn",
       "title": "Luxury",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": " \"Where Luxury rests for those deserve the best \" These products are the result of creativity and precision."
     },
     {
       "icon": "fa fa-group",
       "title": "Regular",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": " \"Jaw-dropping regular artworks at an affordable price \" These products have regular usage and versatility. Nevertheless, these are segregated based on metallurgy and skills incorporated."
     },
     {
       "icon": "fa fa-magic",
       "title": "Premium",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text":  " \"Where Luxury and affordability converge \" These products are considerable feats of engineering and sculpting. These are known for adeptness and artistry and involves additiona "
     }
   ]
 }
